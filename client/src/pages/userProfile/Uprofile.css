@@ -1,0 +1,15 @@
+.user_profile {
+  margin: 1rem 0;
+}
+.user_detail {
+  padding: 1rem;
+}
+.area {
+  margin: 10px 0;
+}
+.detail {
+  font-size: smaller;
+  font-weight: 700;
+  color: rgb(185, 184, 184);
+  margin-left: 10px;
+}

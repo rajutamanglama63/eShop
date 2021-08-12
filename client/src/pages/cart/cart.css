@@ -1,0 +1,18 @@
+.cart {
+  margin: 10px 0;
+}
+.cart_detail {
+  display: flex;
+  justify-content: space-between;
+}
+.cart_item_list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 5px;
+  width: 70%;
+}
+.box {
+  margin-left: 5px;
+  width: 30%;
+}

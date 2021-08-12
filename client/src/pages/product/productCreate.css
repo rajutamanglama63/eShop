@@ -1,0 +1,21 @@
+.create_product {
+  border: 1px solid #000;
+  margin: 1rem 0;
+  padding: 2rem 0;
+}
+.product_form {
+  margin: 0 auto;
+  width: 55%;
+}
+.select_option {
+  border: 1px solid rgb(206, 205, 205);
+  padding: 10px;
+  border-radius: 5px;
+}
+.image_upload {
+  border: 1px solid rgb(206, 205, 205);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 55%;
+}

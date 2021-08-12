@@ -1,0 +1,41 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid grey;
+  padding: 10px;
+}
+.card_image {
+  height: 150px;
+}
+/* .btn {
+  display: flex;
+  justify-content: space-between;
+} */
+.price {
+  margin-top: 5px;
+}
+.desc {
+  margin: 5px 0;
+  color: rgb(146, 143, 143);
+  font-size: small;
+  line-height: 15px;
+}
+
+@media (max-width: 320px) {
+  .card {
+    width: 100%;
+  }
+  .btn {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 280px) {
+  .card {
+    width: 100%;
+  }
+  .btn {
+    flex-direction: column;
+  }
+}

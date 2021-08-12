@@ -1,0 +1,20 @@
+.user_info {
+  margin: 1rem 0;
+}
+.user_info_block {
+  margin: 0 auto;
+  width: 90%;
+}
+.detail_list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem 0;
+  list-style: none;
+}
+.detail_data {
+  padding: 15px 0;
+}
+.colour {
+  color: rgb(138, 135, 135);
+}
